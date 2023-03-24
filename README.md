@@ -20,4 +20,4 @@
 <p align="center"><img src="FlowChart.png" height="700x"></img></p>
 
 ## Program Configuration
-<p align="center"><img src="program_config.png" height="700x"></img></p>
+<p align="center"><img src="program_config.png"></img></p>
