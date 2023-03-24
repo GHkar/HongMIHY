@@ -16,7 +16,7 @@
 <p align="center"><img src="configuration.png" height="700x"></img></p>
 
 ## Flow chart
-<p align="center"><img src="flowchart.jpg" height="700x"></img></p>
+<p align="center"><img src="FlowChart.png" height="700x"></img></p>
 
 ## Program Configuration
 <p align="center"><img src="program_config.png" height="700x"></img></p>
