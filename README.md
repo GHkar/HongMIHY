@@ -1,6 +1,6 @@
 ## HongMIHY
 
-<p align="center"><img src="logo.png" height="300x"></img></p>
+<p align="center"><img src="logo.png" height="100x"></img></p>
 캡스톤 프로젝트로, 시선 추적을 이용한 AAC (Augmentative and Alternative Communication)   
 
 일상 생활에 필요하고 자주 쓰는 문장과 사용자가 직접 등록한 문장을 화면에 디스플레이 하고, 웹 캠을 통해 시선을 추적하여, 사용자 대신 의사를 표현 및 실현해주는 프로그램이다. 문장을 일정 시간 응시하면 해당하는 문장이 음성으로 출력되고, 주위의 간병인이나 의료진들이 들을 수 있다. 또한, 보호자의 페이스북 계정을 등록하여 해당 문장을 메시지로 전송하여 장거리에서도 의사소통을 할 수 돕는다.
