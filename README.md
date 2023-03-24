@@ -8,7 +8,7 @@
 
 
 ## How to Use
-<p align="center"><img src="image/howto.jpg" height="500x"></img></p>
+<p align="center"><img src="image/howto.jpg" height="700x"></img></p>
 
 ## Flow chart
 
