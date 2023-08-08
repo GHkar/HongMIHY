@@ -11,7 +11,7 @@
 
 
 ## Video
-
+[![텍스트](http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE)](https://unity3d.com/kr)
 <div align=center>
   <img src="http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg" height="300x">(https://youtu.be/IqAfY1qU6mM)</img>
   <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.
