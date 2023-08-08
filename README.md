@@ -13,7 +13,7 @@
 ## Video
 
 <div align=center>
-  [![image](http://img.youtube.com/vi/t-0Ru8HBHEc/0.jpg)](https://youtu.be/IqAfY1qU6mM)
+  [![image](https://i9.ytimg.com/vi_webp/IqAfY1qU6mM/mqdefault.webp?sqp=CNilx6YG&rs=AOn4CLARz1f_0Sx-otcJE5-FpBfaehURkQ)](https://youtu.be/IqAfY1qU6mM)
   <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.
 </div>
 
