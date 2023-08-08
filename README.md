@@ -13,7 +13,7 @@
 ## Video
 
 <div align=center>
-  [![image](http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg)]
+  <img src="http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg" height="700x"></img>
   <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.(https://youtu.be/IqAfY1qU6mM)
 </div>
 
