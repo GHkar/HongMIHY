@@ -10,6 +10,13 @@
 : 보완대체의사소통(Augmentative and Alternative Communication)의 약자. 말이나 글을 사용하기 어려운 사람들이 의사 소통할 수 있도록 돕는 기기이다.
 
 
+## Video
+
+<div align=center>
+  [![image](http://img.youtube.com/vi/t-0Ru8HBHEc/0.jpg)](https://youtu.be/IqAfY1qU6mM)
+  <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.
+</div>
+
 ## How to Use
 <p align="center"><img src="image/howto.jpg" height="700x"></img></p>
 
