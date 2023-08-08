@@ -11,9 +11,9 @@
 
 
 ## Video
-[![텍스트](http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg)](https://youtu.be/IqAfY1qU6mM)
+
 <div align=center>
-  <img src="http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg" height="300x">(https://youtu.be/IqAfY1qU6mM)</img>
+  [![이미지](http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg)](https://youtu.be/IqAfY1qU6mM)
   <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.
 </div>
 
