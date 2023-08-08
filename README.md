@@ -13,8 +13,8 @@
 ## Video
 
 <div align=center>
-  [![image](http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg)](https://youtu.be/IqAfY1qU6mM)
-  <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.
+  [![image](http://img.youtube.com/vi/IqAfY1qU6mM/0.jpg)]
+  <br>▲ 이미지를 클릭하면 유튜브 영상으로 연결됩니다.(https://youtu.be/IqAfY1qU6mM)
 </div>
 
 ## How to Use
